@@ -1,0 +1,13 @@
+.article{
+  background-color:grey;
+  margin:3px;
+}
+
+.title{
+  color: rgba(163, 93, 168, 0.71);
+}
+
+.author{
+  font-style: italic;
+  color: #383636;
+}

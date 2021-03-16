@@ -1,0 +1,12 @@
+*{
+  text-align: center;
+}
+
+h1{
+  color: rgba(163, 93, 168, 0.71);
+}
+
+.author{
+  font-style: italic;
+  color: #383636;
+}
